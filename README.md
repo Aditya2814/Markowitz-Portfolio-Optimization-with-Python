@@ -212,10 +212,6 @@ where:
 
 **Aditya2814**
 
-## License
-
-This project is open source and available for educational purposes.
-
 ## Disclaimer
 
 This analysis is for educational purposes only. Past performance does not guarantee future results. Please consult with a financial advisor before making investment decisions. The portfolio allocations suggested here should not be considered as financial advice.
